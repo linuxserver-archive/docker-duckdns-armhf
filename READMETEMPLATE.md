@@ -17,7 +17,7 @@ docker create \
   -e PGID=<gid> -e PUID=<uid>  \
   -e SUBDOMAINS=<subdomains> \
   -e TOKEN=<token> \
-  linuxserver/duckdns
+  lsiodev/duckdns-armhf
 ```
 
 **Parameters**
