@@ -85,7 +85,7 @@ If you'd like the output in a file, set the optional parameter LOG_FILE to true 
 
 ## Versions
 
-+ **15.10.18:** This image is deprecated. PLease use the multi-arch images at linuxserver/duckdns
++ **15.10.18:** This image is deprecated. Please use the multi-arch images at linuxserver/duckdns
 + **22.08.18:** Rebase to alpine 3.8.
 + **29.05.17:** Rebase to alpine 3.6.
 + **09.02.17:** Rebase to alpine 3.5.
